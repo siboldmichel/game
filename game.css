@@ -1,0 +1,22 @@
+.playground {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border: 1px solid blue;
+    background-image: url(/img/waldemar-brandt-rhaS97NhnHg-unsplash.jpg);
+}
+
+.player {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    max-height: 20px;
+}
+
+.stein {
+    position: absolute;
+    width: 20px;
+    height: 200px;
+    background-color: gray;
+}
